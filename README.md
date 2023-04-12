@@ -8,7 +8,7 @@
 
 ````Prof. Luciano Ferretto ````
 
-```` Alunos: André Canton, Guilherme Bortolotti, Bruno Abido, Matheus Rodriges, Arthur Vassoler ````
+```` Alunos: André Canton, Guilherme Bortolotti, Bruno Abido, Matheus Rodrigues, Arthur Vassoler ````
 
 ### Projeto desenvolvido por:
 | [<img src="https://avatars.githubusercontent.com/u/59292351?s=96&v=4" width=115><br><sub>Arthur Vassoler</sub>](https://github.com/Arthur-Vassoler) |
